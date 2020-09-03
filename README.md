@@ -1,11 +1,7 @@
+[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-27-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-MSSql)
+
 # LeetCode
 The MS SQL solutions for LeetCode problems.
-
-### Database
-
-| Languages | Solved Problems |
-| --------- | --------------- |
-|MSSQL|[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-27-blue.svg?style=flat-square)](https://github.com/BigEgg/LeetCode)|
 
 ## Problems
 
